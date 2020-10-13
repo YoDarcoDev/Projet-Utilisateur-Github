@@ -59,7 +59,7 @@ input {
     position: absolute;
     border-radius: 50%;
     left: 50%;
-    transform: translate(-50%, 50%);
+    transform: translate(-50%, -50%);
     background: #000;                   /* Si pas d'image */
     border: 1px solid black;
 }
